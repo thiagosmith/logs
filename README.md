@@ -1,2 +1,3 @@
-# logs
-Logs Repository
+# Logs Repository
+
+Logs for trainning
